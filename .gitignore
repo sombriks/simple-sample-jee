@@ -1,0 +1,11 @@
+bin
+build
+gradle
+extract
+download
+
+.gradle
+.vscode
+.project
+.settings
+.classpath
